@@ -1,0 +1,9 @@
+# Hostinger Static Ignore File
+# Prevents Hostinger automatic framework detector from blocking static deployment
+# Fixes "Invalid framework found" error
+
+*
+!index.html
+!privacy.html
+!Ondernemingsplan_OV_Digital_2026.pdf
+!.staticignore
